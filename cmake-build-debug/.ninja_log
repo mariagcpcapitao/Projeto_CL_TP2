@@ -1,0 +1,25 @@
+# ninja log v6
+34	226	7874454573208183	CMakeFiles/Projeto_CL_TP2.dir/funcao.c.obj	3481c0d451abb2c8
+21	223	7874512431408463	CMakeFiles/Projeto_CL_TP2.dir/algoritmo.c.obj	46c67d4c1bc8e45a
+6	123	7874518532317028	CMakeFiles/Projeto_CL_TP2.dir/utils.c.obj	5670a7ead76cb82c
+11	217	7874512431307726	CMakeFiles/Projeto_CL_TP2.dir/main.c.obj	1114f337da1f391
+124	272	7874518533484646	Projeto_CL_TP2.exe	7fe83084f0d95ede
+9	136	7874520891417392	CMakeFiles/Projeto_CL_TP2.dir/utils.c.obj	5670a7ead76cb82c
+138	321	7874520892713395	Projeto_CL_TP2.exe	7fe83084f0d95ede
+8	128	7874521917668876	CMakeFiles/Projeto_CL_TP2.dir/utils.c.obj	5670a7ead76cb82c
+129	275	7874521918872297	Projeto_CL_TP2.exe	7fe83084f0d95ede
+7	126	7874523026395669	CMakeFiles/Projeto_CL_TP2.dir/utils.c.obj	5670a7ead76cb82c
+128	277	7874523027604074	Projeto_CL_TP2.exe	7fe83084f0d95ede
+6	123	7874524543878890	CMakeFiles/Projeto_CL_TP2.dir/utils.c.obj	5670a7ead76cb82c
+124	232	7874524545069018	Projeto_CL_TP2.exe	7fe83084f0d95ede
+8	139	7874525480408488	CMakeFiles/Projeto_CL_TP2.dir/utils.c.obj	5670a7ead76cb82c
+140	265	7874525481716392	Projeto_CL_TP2.exe	7fe83084f0d95ede
+5	159	7874527252985288	CMakeFiles/Projeto_CL_TP2.dir/main.c.obj	1114f337da1f391
+14	164	7874527253080893	CMakeFiles/Projeto_CL_TP2.dir/algoritmo.c.obj	46c67d4c1bc8e45a
+165	282	7874527254591564	Projeto_CL_TP2.exe	7fe83084f0d95ede
+5	119	7874529034608877	CMakeFiles/Projeto_CL_TP2.dir/algoritmo.c.obj	46c67d4c1bc8e45a
+120	244	7874529035743409	Projeto_CL_TP2.exe	7fe83084f0d95ede
+7	133	7874531049594135	CMakeFiles/Projeto_CL_TP2.dir/algoritmo.c.obj	46c67d4c1bc8e45a
+134	314	7874531050860637	Projeto_CL_TP2.exe	7fe83084f0d95ede
+5	134	7874532789698147	CMakeFiles/Projeto_CL_TP2.dir/algoritmo.c.obj	46c67d4c1bc8e45a
+135	268	7874532791002424	Projeto_CL_TP2.exe	7fe83084f0d95ede
