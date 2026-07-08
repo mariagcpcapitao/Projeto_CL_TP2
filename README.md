@@ -1,4 +1,4 @@
-# Trabalho Prático 2 — Problema de Otimização
+# Trabalho Prático 2 - Problema de Otimização
 
 Implementação em C de três metaheurísticas para resolver um **problema de seleção/dispersão de locais**: dado um conjunto de candidatos (locais turísticos) e as distâncias entre eles, o objetivo é escolher um subconjunto de tamanho fixo que **maximize a distância média entre os locais escolhidos**.
 
