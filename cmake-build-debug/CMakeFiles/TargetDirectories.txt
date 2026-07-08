@@ -1,3 +1,0 @@
-C:/Users/1663m/OneDrive - ISEC/Ambiente de Trabalho/fac/2º A/1ºS/IIA/TP2/Projeto_CL_TP2/cmake-build-debug/CMakeFiles/Projeto_CL_TP2.dir
-C:/Users/1663m/OneDrive - ISEC/Ambiente de Trabalho/fac/2º A/1ºS/IIA/TP2/Projeto_CL_TP2/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/1663m/OneDrive - ISEC/Ambiente de Trabalho/fac/2º A/1ºS/IIA/TP2/Projeto_CL_TP2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
